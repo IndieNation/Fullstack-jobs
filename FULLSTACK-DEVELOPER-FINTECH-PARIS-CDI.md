@@ -5,9 +5,13 @@ Here are some open positions, check it out for details !
 # FULLSTACK DEVELOPER | FINTECH | PARIS | CDI
 
 # Informations
+
 •	Type : startup
+
 •	Secteur d’activités : solution de paiement
+
 •	Taille : 30 personnes
+
 •	Création : 2019
 
 Que diriez-vous de travailler avec une équipe brillante qui veut aider les e-commerçants grâce à une API de paiement en plusieurs fois ?
